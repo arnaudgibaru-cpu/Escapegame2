@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Dernière visite",
+      "hasCanvas": false,
+      "bodyTextLen": 294,
+      "bodyTextHash": "cd3f3946a86b62df73f78baea1e8c3bcc12191bcb56e7a869cd145cc7091edeb",
+      "bodyTextPrefix": "ESCAPE GAME IDEL · TÉLÉCONSULTATION ASSISTÉE Dernière visite ava",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Dernière visite",
+      "hasCanvas": false,
+      "bodyTextLen": 294,
+      "bodyTextHash": "cd3f3946a86b62df73f78baea1e8c3bcc12191bcb56e7a869cd145cc7091edeb",
+      "bodyTextPrefix": "ESCAPE GAME IDEL · TÉLÉCONSULTATION ASSISTÉE Dernière visite ava",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
